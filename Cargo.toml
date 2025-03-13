@@ -1,0 +1,9 @@
+[package]
+name = "papaya-segfault"
+description = "Reproduction for Papaya 0.2.0 memory corruption bug"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+
+[dependencies]
+papaya = "=0.2.0"
