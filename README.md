@@ -1,6 +1,6 @@
 papaya-segfault
 ===
-Reproduction for Papaya 0.2.0 memory corruption bug.
+Reproduction for Papaya 0.2.0 [memory corruption bug](https://github.com/ibraheemdev/papaya/issues/63).
 
 ## Example Output
 ```text
