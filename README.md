@@ -2,6 +2,9 @@ papaya-segfault
 ===
 Reproduction for Papaya 0.2.0 [memory corruption bug](https://github.com/ibraheemdev/papaya/issues/63).
 
+This issue was [fixed](https://github.com/ibraheemdev/papaya/pull/64) in Papaya 0.2.1.
+Version 0.2.0 has been [yanked](https://crates.io/crates/papaya/0.2.0).
+
 ## Example Output
 ```text
 ❯ cargo run
